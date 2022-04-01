@@ -1,1 +1,2 @@
-# Seminario-IdeO
+# Seminario-Investigación de operaciones
+
